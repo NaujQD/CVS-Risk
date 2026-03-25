@@ -1,6 +1,10 @@
-# CVS-Risk
-Machine learning project for cardiovascular disease prediction using public available data Cardiovascular Disease Prediction (ML Project) Overview
-This project explores the use of machine learning models to predict cardiovascular disease using clinical data.
+# Cardiovascular Disease Prediction (ML)
+
+Machine learning model to detect cardiovascular disease using clinical data.
+
+- Accuracy: ~88%
+- Recall (disease): ~91%
+- Cross-validation: ~84%
 
 The goal is to evaluate how well these models perform and assess their potential applicability in real clinical environments.
 
