@@ -1,4 +1,4 @@
-# Cardiovascular Disease Risk assestment — ML
+# Cardiovascular Disease Risk Assestment — ML
 
 Machine learning pipeline to detect cardiovascular disease risk using the Cleveland Heart Disease dataset. The project is built around a clinical priority: **minimizing false negatives**, since missing a real case carries far greater consequences than a false alarm.
 
